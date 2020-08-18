@@ -1,9 +1,25 @@
 .description {
-    padding: 13%;
+    padding: 10%;
 }
 
 .form {
-    padding-left: 10%;
-    padding-right: 10%;
     padding-top: 3%;
 }
+
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .bg {
+
+    background-image: url("https://wallpaperaccess.com/full/58366.jpg");
+  
+
+    height: 94%; 
+  
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
